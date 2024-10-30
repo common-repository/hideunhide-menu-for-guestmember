@@ -1,0 +1,8 @@
+/* CSS code */
+.logged-in .forguest {
+    display: none !important;
+}
+
+.not-logged-in .formember {
+    display: none !important;
+}
